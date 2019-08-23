@@ -54,6 +54,7 @@ Developed a NLP-chatbot for use in financial company. The solution was using a N
 
 ## Apple ARKit
 *June 2018*
+
 Implemented Augmented Reality app for use in small and medium size companies.
 
 <iframe width="495" height="278" src="https://www.youtube.com/embed/fFBVXA2Yk8E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -64,6 +65,4 @@ Implemented Augmented Reality app for use in small and medium size companies.
 ![](https://lh3.googleusercontent.com/zKVNU9v7BaifxAlOj1L-CCzSlTAQVjfFJIGF25y-yHfPnYhrhcoIDChBE8zJGXLna_YPZUh7LEOJywMSeLmN7ZiI6zoHlype5sq8TFxQ-TrgkKSImfHwDfRSmaqh3oz_TxzJq96CpB0=w1480-h1110-no)
 
 
-<iframe src="https://drive.google.com/file/d/1X7G4s9m7PCDrZ6OJnGjLcYl2vseJ7aMS/preview" width="640" height="480"></iframe>
-
-<iframe src="https://drive.google.com/file/d/bbf7de84-b439-4d73-ba6c-d2c7e22cee9e/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1iQA-db3B6O78eNa3HCK_TW6_5wdbJmI3/preview" width="640" height="480"></iframe>
