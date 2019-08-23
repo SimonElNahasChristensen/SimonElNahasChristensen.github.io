@@ -46,9 +46,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ## Chatbot project
 *June 2019*
-
-[ddd](https://drive.google.com/open?id=1X7G4s9m7PCDrZ6OJnGjLcYl2vseJ7aMS)
-
-https://support.google.com/blogger/thread/1950766?hl=en
-
-<iframe width="545" height="307" src="https://www.youtube.com/embed/WSN5BaCzsbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Developed a NLP-chatbot for use in financial company. The solution was using a Node.js backend with request to external mySQL database using REST API to fronted.
+<iframe src="https://drive.google.com/file/d/1X7G4s9m7PCDrZ6OJnGjLcYl2vseJ7aMS/preview" width="640" height="480"></iframe>
