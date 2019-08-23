@@ -48,3 +48,21 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 *June 2019*
 Developed a NLP-chatbot for use in financial company. The solution was using a Node.js backend with request to external mySQL database using REST API to fronted.
 <iframe src="https://drive.google.com/file/d/1X7G4s9m7PCDrZ6OJnGjLcYl2vseJ7aMS/preview" width="640" height="480"></iframe>
+
+
+
+
+## Apple ARKit
+*June 2018*
+Implemented Augmented Reality app for use in small and medium size companies.
+
+
+## MS Hackathon Skyscanner app
+
+
+![](https://lh3.googleusercontent.com/zKVNU9v7BaifxAlOj1L-CCzSlTAQVjfFJIGF25y-yHfPnYhrhcoIDChBE8zJGXLna_YPZUh7LEOJywMSeLmN7ZiI6zoHlype5sq8TFxQ-TrgkKSImfHwDfRSmaqh3oz_TxzJq96CpB0=w1480-h1110-no)
+
+
+<iframe src="https://drive.google.com/file/d/1X7G4s9m7PCDrZ6OJnGjLcYl2vseJ7aMS/preview" width="640" height="480"></iframe>
+
+<iframe src="blob:https://youtube.googleapis.com/bbf7de84-b439-4d73-ba6c-d2c7e22cee9e" width="640" height="480"></iframe>
