@@ -56,6 +56,7 @@ Developed a NLP-chatbot for use in financial company. The solution was using a N
 *June 2018*
 Implemented Augmented Reality app for use in small and medium size companies.
 
+<iframe width="495" height="278" src="https://www.youtube.com/embed/fFBVXA2Yk8E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## MS Hackathon Skyscanner app
 
@@ -65,4 +66,4 @@ Implemented Augmented Reality app for use in small and medium size companies.
 
 <iframe src="https://drive.google.com/file/d/1X7G4s9m7PCDrZ6OJnGjLcYl2vseJ7aMS/preview" width="640" height="480"></iframe>
 
-<iframe src="blob:https://youtube.googleapis.com/bbf7de84-b439-4d73-ba6c-d2c7e22cee9e" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/bbf7de84-b439-4d73-ba6c-d2c7e22cee9e/preview" width="640" height="480"></iframe>
