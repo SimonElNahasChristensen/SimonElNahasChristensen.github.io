@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my portfolio
+
+Here I occasionaly publish projects I've done.
 
 # Current Projects
 
@@ -14,10 +16,20 @@
 
 # Previous Projects
 
+## 
+
+## Chineese Checkers AI
+
+Implemented in Java interfaced to via terminal.
+Uses Alpha-beta pruned Mini-max algorithm optimised via heuristics function based on distance to the center line, which was showed to win more than when using euclidean or manhatten distance.
+
+
+![](ChineeseCheckersAI.png)
+
 ## Chatbot project
 *June 2019*
 
-Developed a NLP-chatbot for use in financial company. The solution was using a Node.js backend with request to external mySQL database using REST API to fronted.
+Developed a NLP-chatbot for use in financial company. The solution was using a Node.js backend with request to external mySQL database using REST API to frontend.
 <iframe src="https://drive.google.com/file/d/1X7G4s9m7PCDrZ6OJnGjLcYl2vseJ7aMS/preview" width="640" height="480"></iframe>
 
 
@@ -39,9 +51,9 @@ Java, jSpace
 Created a special course and gathered a team. We implemented an Augmented Reality iOS app for use in SMEs. It made it possible to localise an visualise IOT-sensors inside buildings. This would make maintenance of IOT-sensors more convenient and user friendly.
 
 ### Tech stack:
+Swift, UIKit, ARKit, XCode
 
-
-<iframe width="495" height="278" src="https://www.youtube.com/embed/fFBVXA2Yk8E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/fFBVXA2Yk8E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -49,6 +61,7 @@ Created a special course and gathered a team. We implemented an Augmented Realit
 *April 2018*
 
 Together with my team we developed a AR app for [Skyscanner](http://skyscanner.com), that was able to localise near countries and create an overview of the travel destination.
+
 
 ![](https://lh3.googleusercontent.com/zKVNU9v7BaifxAlOj1L-CCzSlTAQVjfFJIGF25y-yHfPnYhrhcoIDChBE8zJGXLna_YPZUh7LEOJywMSeLmN7ZiI6zoHlype5sq8TFxQ-TrgkKSImfHwDfRSmaqh3oz_TxzJq96CpB0=w1480-h1110-no)
 
