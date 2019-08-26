@@ -21,7 +21,7 @@ Swift, UIKit, XCode, MongoDB, Node.js, REST API.
 ## Chineese Checkers AI
 
 Implemented in Java interfaced to via terminal.
-Uses Alpha-beta pruned Mini-max algorithm optimised via heuristics function based on distance to the center line, which was showed to win more than when using euclidean or manhatten distance.
+Uses Alpha-beta pruned Mini-max algorithm optimised via heuristics function based on distance to the center line. The AI was able to reach a super human level, where it would win in 100/100 games.
 
 ### Tech stack
 Java, System I/O (In other words `terminal`).
