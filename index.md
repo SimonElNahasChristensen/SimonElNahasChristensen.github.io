@@ -58,7 +58,7 @@ Created a special course and gathered a team. We implemented an Augmented Realit
 ### Tech stack:
 Swift, UIKit, ARKit, XCode.
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/fFBVXA2Yk8E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1XRKcSjee7M-nRq8RuQ1biik8B3mC2l2G/preview" width="640" height="480"></iframe>
 
 
 
