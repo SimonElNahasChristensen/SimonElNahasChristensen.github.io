@@ -61,7 +61,8 @@ Created a special course and gathered a team. We implemented an Augmented Realit
 ### Tech stack:
 Swift, UIKit, ARKit, XCode.
 
-[video](https://drive.google.com/file/d/1XRKcSjee7M-nRq8RuQ1biik8B3mC2l2G/preview)
+[video](https://drive.google.com/file/d/1XRKcSjee7M-nRq8RuQ1biik8B3mC2l2G/preview) 
+
 ## Microsoft Hackathon Skyscanner app
 *April 2018*
 
@@ -70,9 +71,7 @@ Together with my team we developed a AR app for [Skyscanner](http://skyscanner.c
 ### Tech stack:
 Swift, ARKit, XCode, Skyscanner API.
 
-[Image](https://lh3.googleusercontent.com/zKVNU9v7BaifxAlOj1L-CCzSlTAQVjfFJIGF25y-yHfPnYhrhcoIDChBE8zJGXLna_YPZUh7LEOJywMSeLmN7ZiI6zoHlype5sq8TFxQ-TrgkKSImfHwDfRSmaqh3oz_TxzJq96CpB0=w1480-h1110-no)
-
-[video](https://drive.google.com/file/d/1iQA-db3B6O78eNa3HCK_TW6_5wdbJmI3/preview)
+[Image](https://lh3.googleusercontent.com/zKVNU9v7BaifxAlOj1L-CCzSlTAQVjfFJIGF25y-yHfPnYhrhcoIDChBE8zJGXLna_YPZUh7LEOJywMSeLmN7ZiI6zoHlype5sq8TFxQ-TrgkKSImfHwDfRSmaqh3oz_TxzJq96CpB0=w1480-h1110-no) | [video](https://drive.google.com/file/d/1iQA-db3B6O78eNa3HCK_TW6_5wdbJmI3/preview)
 
 ## Vink Game
 
@@ -83,5 +82,4 @@ Danish Social Game App where poeple on your team has to guess a collection of wo
 ### Tech stack:
 iOS, UIKit, Autolayout, Swift.
 
-[Image](Assets/img/vink.png)
-[AppStore](https://apps.apple.com/dk/app/vink/id1344789638)
+[Image](Assets/img/vink.png) | [AppStore](https://apps.apple.com/dk/app/vink/id1344789638)
