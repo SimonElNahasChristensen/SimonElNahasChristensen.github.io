@@ -32,7 +32,7 @@ Uses Alpha-beta pruned Mini-max algorithm optimised via heuristics function base
 ### Tech stack
 Java, System I/O (In other words `terminal`). Focus was on the model.
 
-[UI](ChineeseCheckersAI.png)
+[UI](Assets/img/ChineeseCheckersAI.png)
 
 ## Chatbot project
 *June 2019*
@@ -83,5 +83,5 @@ Danish Social Game App where poeple on your team has to guess a collection of wo
 ### Tech stack:
 iOS, UIKit, Autolayout, Swift.
 
-[Image](vink.png)
+[Image](Assets/img/vink.png)
 [AppStore](https://apps.apple.com/dk/app/vink/id1344789638)
