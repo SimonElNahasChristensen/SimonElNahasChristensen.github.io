@@ -42,7 +42,8 @@ Developed a NLP-chatbot for use in financial company. The Chatbot is interactive
 ### Tech stack:
 Dialogflow, Node.js, Bootstrap, jQuery, HTML, CSS, mySQL, REST API.
 
-[video](https://drive.google.com/file/d/1X7G4s9m7PCDrZ6OJnGjLcYl2vseJ7aMS/preview)
+[Video](https://drive.google.com/file/d/1X7G4s9m7PCDrZ6OJnGjLcYl2vseJ7aMS/preview)
+
 ## Multiplayer Online Snake
 *January 2019*
 
@@ -52,7 +53,8 @@ Dialogflow, Node.js, Bootstrap, jQuery, HTML, CSS, mySQL, REST API.
 ### Tech stack:
 Java, jSpace (Distributed Algorithm), JavaFx (UI).
 
-[video](https://drive.google.com/file/d/1U5i7INCZlc2znHz_QpiXmjFvmaPMfmfi/preview)
+[Video](https://drive.google.com/file/d/1U5i7INCZlc2znHz_QpiXmjFvmaPMfmfi/preview)
+
 ## Apple ARKit Special Course
 *June 2018*
 
@@ -61,7 +63,7 @@ Created a special course and gathered a team. We implemented an Augmented Realit
 ### Tech stack:
 Swift, UIKit, ARKit, XCode.
 
-[video](https://drive.google.com/file/d/1XRKcSjee7M-nRq8RuQ1biik8B3mC2l2G/preview) 
+[Video](https://drive.google.com/file/d/1XRKcSjee7M-nRq8RuQ1biik8B3mC2l2G/preview) 
 
 ## Microsoft Hackathon Skyscanner app
 *April 2018*
