@@ -1,5 +1,3 @@
-A danish Computer Science Engineering Student @ DTU (Lyngby), currently on exchange @ NTU (Singapore)
-
 # Work
 
 [LinkedIn](https://www.linkedin.com/in/simon-el-nahas-christensen-27145ba8/)
