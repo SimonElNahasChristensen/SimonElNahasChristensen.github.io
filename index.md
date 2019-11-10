@@ -42,7 +42,7 @@ Developed a NLP-chatbot for use in financial company. The Chatbot is interactive
 ### Tech stack:
 Dialogflow, Node.js, Bootstrap, jQuery, HTML, CSS, mySQL, REST API.
 
-<iframe src="https://drive.google.com/file/d/1X7G4s9m7PCDrZ6OJnGjLcYl2vseJ7aMS/preview" width="640" height="480"></iframe>
+[video](https://drive.google.com/file/d/1X7G4s9m7PCDrZ6OJnGjLcYl2vseJ7aMS/preview)
 ## Multiplayer Online Snake
 *January 2019*
 
@@ -52,7 +52,7 @@ Dialogflow, Node.js, Bootstrap, jQuery, HTML, CSS, mySQL, REST API.
 ### Tech stack:
 Java, jSpace (Distributed Algorithm), JavaFx (UI).
 
-<iframe src="https://drive.google.com/file/d/1U5i7INCZlc2znHz_QpiXmjFvmaPMfmfi/preview" width="640" height="480"></iframe>
+[video](https://drive.google.com/file/d/1U5i7INCZlc2znHz_QpiXmjFvmaPMfmfi/preview)
 ## Apple ARKit Special Course
 *June 2018*
 
@@ -61,7 +61,7 @@ Created a special course and gathered a team. We implemented an Augmented Realit
 ### Tech stack:
 Swift, UIKit, ARKit, XCode.
 
-<iframe src="https://drive.google.com/file/d/1XRKcSjee7M-nRq8RuQ1biik8B3mC2l2G/preview" width="640" height="480"></iframe>
+[video](https://drive.google.com/file/d/1XRKcSjee7M-nRq8RuQ1biik8B3mC2l2G/preview)
 ## Microsoft Hackathon Skyscanner app
 *April 2018*
 
@@ -70,10 +70,10 @@ Together with my team we developed a AR app for [Skyscanner](http://skyscanner.c
 ### Tech stack:
 Swift, ARKit, XCode, Skyscanner API.
 
-![](https://lh3.googleusercontent.com/zKVNU9v7BaifxAlOj1L-CCzSlTAQVjfFJIGF25y-yHfPnYhrhcoIDChBE8zJGXLna_YPZUh7LEOJywMSeLmN7ZiI6zoHlype5sq8TFxQ-TrgkKSImfHwDfRSmaqh3oz_TxzJq96CpB0=w1480-h1110-no)
+[Image](https://lh3.googleusercontent.com/zKVNU9v7BaifxAlOj1L-CCzSlTAQVjfFJIGF25y-yHfPnYhrhcoIDChBE8zJGXLna_YPZUh7LEOJywMSeLmN7ZiI6zoHlype5sq8TFxQ-TrgkKSImfHwDfRSmaqh3oz_TxzJq96CpB0=w1480-h1110-no)
 
+[video](https://drive.google.com/file/d/1iQA-db3B6O78eNa3HCK_TW6_5wdbJmI3/preview)
 
-<iframe src="https://drive.google.com/file/d/1iQA-db3B6O78eNa3HCK_TW6_5wdbJmI3/preview" width="640" height="480"></iframe>
 ## Vink Game
 
 *March 2018*
@@ -83,7 +83,5 @@ Danish Social Game App where poeple on your team has to guess a collection of wo
 ### Tech stack:
 iOS, UIKit, Autolayout, Swift.
 
-[![][vink]][vinkLink]
-
-[vinkLink]: https://apps.apple.com/dk/app/vink/id1344789638
-[vink]: vink.png
+[Image](vink.png)
+[AppStore](https://apps.apple.com/dk/app/vink/id1344789638)
