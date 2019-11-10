@@ -1,22 +1,30 @@
-## Welcome to my portfolio
+A danish Computer Science Engineering Student @ DTU (Lyngby), currently on exchange @ NTU (Singapore)
 
-Here I occasionaly publish my projects.
+# Work
 
-# Current Projects
+[LinkedIn](https://www.linkedin.com/in/simon-el-nahas-christensen-27145ba8/)
 
-## MinEjendom iOS app
+# Selected Projects
 
-### Tech stack
-Swift, UIKit, XCode, MongoDB, Node.js, REST API.
+## E-tendance
 
-[![][image]][hyperlink]
+*@ NTU Singapore* 
+*Course: Advanced Software Engineering*
+*November 2019*
 
-  [hyperlink]: http://minejendom.dk
-  [image]: https://process.filestackapi.com/AWdLLpMAFSGo8szRqg1dAz/urlscreenshot=mode:window,height:1080,width:1080,delay:2000/crop=dim:[0,0,1080,720]/resize=width:600/http://www.minejendom.dk
+Together with 5 Singaporean students we developed attandance taking system based on face recognition. 
 
+[Video](https://photos.app.goo.gl/Y7cNXPkaD4Qs4icZ6) 
 
+### Concepts
 
-# Previous Projects
+CI/CD, Agile, TDD, CMMI, Risk Management, Quality Management, Project Management, Verification Methods and more.
+
+### Tech Stack
+
+Javascript, React.js, Node.js 
+
+## Tech Stack
 
 ## Chineese Checkers AI
 
@@ -24,9 +32,9 @@ Implemented in Java interfaced to via terminal.
 Uses Alpha-beta pruned Mini-max algorithm optimised via heuristics function based on distance to the center line. The AI was able to reach a super human level, where it would win in 100/100 games.
 
 ### Tech stack
-Java, System I/O (In other words `terminal`).
+Java, System I/O (In other words `terminal`). Focus was on the model.
 
-![](ChineeseCheckersAI.png)
+[UI](ChineeseCheckersAI.png)
 
 ## Chatbot project
 *June 2019*
@@ -37,8 +45,6 @@ Developed a NLP-chatbot for use in financial company. The Chatbot is interactive
 Dialogflow, Node.js, Bootstrap, jQuery, HTML, CSS, mySQL, REST API.
 
 <iframe src="https://drive.google.com/file/d/1X7G4s9m7PCDrZ6OJnGjLcYl2vseJ7aMS/preview" width="640" height="480"></iframe>
-
-
 ## Multiplayer Online Snake
 *January 2019*
 
@@ -49,7 +55,6 @@ Dialogflow, Node.js, Bootstrap, jQuery, HTML, CSS, mySQL, REST API.
 Java, jSpace (Distributed Algorithm), JavaFx (UI).
 
 <iframe src="https://drive.google.com/file/d/1U5i7INCZlc2znHz_QpiXmjFvmaPMfmfi/preview" width="640" height="480"></iframe>
-
 ## Apple ARKit Special Course
 *June 2018*
 
@@ -59,9 +64,6 @@ Created a special course and gathered a team. We implemented an Augmented Realit
 Swift, UIKit, ARKit, XCode.
 
 <iframe src="https://drive.google.com/file/d/1XRKcSjee7M-nRq8RuQ1biik8B3mC2l2G/preview" width="640" height="480"></iframe>
-
-
-
 ## Microsoft Hackathon Skyscanner app
 *April 2018*
 
@@ -74,7 +76,6 @@ Swift, ARKit, XCode, Skyscanner API.
 
 
 <iframe src="https://drive.google.com/file/d/1iQA-db3B6O78eNa3HCK_TW6_5wdbJmI3/preview" width="640" height="480"></iframe>
-
 ## Vink Game
 
 *March 2018*
@@ -86,5 +87,5 @@ iOS, UIKit, Autolayout, Swift.
 
 [![][vink]][vinkLink]
 
-  [vinkLink]: https://apps.apple.com/dk/app/vink/id1344789638
-  [vink]: vink.png
+[vinkLink]: https://apps.apple.com/dk/app/vink/id1344789638
+[vink]: vink.png
