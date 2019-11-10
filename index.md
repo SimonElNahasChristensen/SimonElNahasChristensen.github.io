@@ -71,7 +71,7 @@ Together with my team we developed a AR app for [Skyscanner](http://skyscanner.c
 ### Tech stack:
 Swift, ARKit, XCode, Skyscanner API.
 
-[Image](https://lh3.googleusercontent.com/zKVNU9v7BaifxAlOj1L-CCzSlTAQVjfFJIGF25y-yHfPnYhrhcoIDChBE8zJGXLna_YPZUh7LEOJywMSeLmN7ZiI6zoHlype5sq8TFxQ-TrgkKSImfHwDfRSmaqh3oz_TxzJq96CpB0=w1480-h1110-no) | [video](https://drive.google.com/file/d/1iQA-db3B6O78eNa3HCK_TW6_5wdbJmI3/preview)
+[Image](https://lh3.googleusercontent.com/zKVNU9v7BaifxAlOj1L-CCzSlTAQVjfFJIGF25y-yHfPnYhrhcoIDChBE8zJGXLna_YPZUh7LEOJywMSeLmN7ZiI6zoHlype5sq8TFxQ-TrgkKSImfHwDfRSmaqh3oz_TxzJq96CpB0=w1480-h1110-no) - [video](https://drive.google.com/file/d/1iQA-db3B6O78eNa3HCK_TW6_5wdbJmI3/preview)
 
 ## Vink Game
 
@@ -80,6 +80,8 @@ Swift, ARKit, XCode, Skyscanner API.
 Danish Social Game App where poeple on your team has to guess a collection of words that you describe by either gestures, sounds, talk or miming.
 
 ### Tech stack:
+
 iOS, UIKit, Autolayout, Swift.
 
-[Image](Assets/img/vink.png) | [AppStore](https://apps.apple.com/dk/app/vink/id1344789638)
+[Image](Assets/img/vink.png) - [AppStore](https://apps.apple.com/dk/app/vink/id1344789638)
+
