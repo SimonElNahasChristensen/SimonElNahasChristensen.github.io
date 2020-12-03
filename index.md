@@ -14,6 +14,7 @@ A video communication application that allows people to move around in a virtual
 When users join each others conversation a P2P video connection will be established between the participants.
 
 [Video](https://www.youtube.com/watch?v=7Ud76iej0Fg&ab_channel=SimonElNahas)
+(the UI was improved at a later stage)
 
 ### Tech Stack
 
