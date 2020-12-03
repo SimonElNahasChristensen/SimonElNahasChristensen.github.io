@@ -4,6 +4,21 @@
 
 # Selected Projects
 
+## toGather
+
+*Fall 2020*
+
+Co-founder & CTO of a startup.
+
+A video communication application that allows people to move around in a virtual room.
+When users join each others conversation a P2P video connection will be established between the participants.
+
+[Video](https://www.youtube.com/watch?v=7Ud76iej0Fg&ab_channel=SimonElNahas)
+
+### Tech Stack
+
+React.js, Google Cloud functions, Firebase Realtime Database, Google Analytics, Hotjar, Twilio.
+
 ## E-tendance
 
 *@ NTU Singapore* 
