@@ -7,7 +7,8 @@
 ## LifeHorizon
 
 A productity WebApp that helps people create an overview of their goals for their day, week, month, year and life.
-[lifeHorizon.me](https://lifehorizon.me)
+
+[LifeHorizon.me](https://lifehorizon.me)
 
 ### Tech Stack
 React.js, Typescript, Cloud Functions, Firebase Firestore, Google Analytics, Firebase Auth.
