@@ -4,6 +4,14 @@
 
 # Selected Projects
 
+## LifeHorizon
+
+A productity WebApp that helps people create an overview of their goals for their day, week, month, year and life.
+https://lifehorizon.me
+
+### Tech Stack
+React.js, Typescript, Cloud Functions, Firebase Firestore, Google Analytics, Firebase Auth.
+
 ## toGather
 
 *Fall 2020*
@@ -18,7 +26,22 @@ When users join each others conversation a P2P video connection will be establis
 
 ### Tech Stack
 
-React.js, Google Cloud functions, Firebase Realtime Database, Google Analytics, Hotjar, Twilio.
+React.js, Google Cloud functions, Firebase Realtime Database, Firebase Auth, Google Analytics, Hotjar, Twilio.
+
+## STEP (Sytem for TEaching Programming)
+
+*Sprint 2020*
+
+Bachelor Thesis 
+
+The system enabled teachers to easily enable students to use tools they had developed over the browser instead of having to setup their environment and install them themselves. The system consisted of:
+- A in-browser react compiler for generating react websites. 
+- A backend for running each of the tools in their needed docker environments
+
+To demonstrate the system I implemented a tool using the system. The tool was a compiler of the language *Secure Guarded Commands* developed by Proffessor Flemming Nielson. The language had the properties that it enabled compile time checks of security aspects related to information flow, such that e.g. private information cannot flow into publicly available variables. This compiler was developed in the functional programming language F#.
+
+### Tech Stack
+Typescript, React.js, Docker, Kubernetes, Node.js, Google Analytics, F#, 
 
 ## E-tendance
 
