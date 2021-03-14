@@ -28,7 +28,7 @@ When users join each others conversation a P2P video connection will be establis
 
 React.js, Google Cloud functions, Firebase Realtime Database, Firebase Auth, Google Analytics, Hotjar, Twilio.
 
-## STEP (Sytem for TEaching Programming)
+## STEP (System for TEaching Programming)
 
 *Sprint 2020*
 
